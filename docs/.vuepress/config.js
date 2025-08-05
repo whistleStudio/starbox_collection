@@ -127,7 +127,7 @@ export default defineUserConfig({
         ]
       },
     ],
-    sidebarDepth: 1
+    sidebarDepth: 0
   }),
 
   base: "/tutorial/starbox_collection/",
